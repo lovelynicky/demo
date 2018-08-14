@@ -1,0 +1,3 @@
+<!--更多关于velocity的内容请访问 http://velocity.apache.org/-->
+#set($layout="layout/baseLayout.vm")
+<div><p>我是${user.name}</p></div>
